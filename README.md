@@ -1,1 +1,1 @@
-# Farmetry-AI-
+# Farmetry
