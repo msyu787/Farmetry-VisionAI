@@ -1,0 +1,5 @@
+﻿feature,variable,unit,current_value,bayesian_target,next_control_value,difference,direction,advice,target_adjustment,next_adjustment,target_adjustment_%,next_adjustment_%,adjustment_summary
+AirHum_pct_min,습도 최저(%),%,46.453,37.007,43.453,-9.447,decrease,낮추는 방향,-9.446000000000005,-3.0,-20.33,-6.46,"습도 최저(%): 현재 46.453% → 다음 제어 43.453% (-3.000%), 장기 목표 37.007% (-9.446%)"
+AirTemp_C_min,기온 최저(°C),°C,18.849,18.892,18.849,0.043,maintain,현재 수준 유지,0.04299999999999926,0.0,0.23,0.0,기온 최저(°C): 현재 18.849°C 유지
+WaterTemp_C_min,수온 최저(°C),°C,17.942,18.231,18.231,0.289,increase,높이는 방향,0.2890000000000015,0.2890000000000015,1.61,1.61,"수온 최저(°C): 현재 17.942°C → 다음 제어 18.231°C (+0.289°C), 장기 목표 18.231°C (+0.289°C)"
+EC_dS_m_mean,EC 평균(dS/m),dS/m,2.205,2.246,2.246,0.04,increase,높이는 방향,0.040999999999999925,0.040999999999999925,1.86,1.86,"EC 평균(dS/m): 현재 2.205dS/m → 다음 제어 2.246dS/m (+0.041dS/m), 장기 목표 2.246dS/m (+0.041dS/m)"

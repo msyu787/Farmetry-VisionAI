@@ -1,0 +1,4 @@
+﻿analysis,top_positive_feature,top_positive_r,top_negative_feature,top_negative_r
+same_day,WaterTemp_C_min,0.274,Volume_L_max,-0.5597
+plant_level,WaterTemp_C_min,0.2529,Volume_L_max,-0.5166
+lag1_prev_day,prev_Volume_L_daily_net_change,0.5323,prev_Volume_L_mean,-0.556

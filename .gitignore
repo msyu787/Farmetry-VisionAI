@@ -1,0 +1,50 @@
+# ============================================================
+# Farmetry - 화이트리스트 방식 .gitignore
+# 기본적으로 모두 무시하고, 공개에 필요한 파일만 명시적으로 포함합니다.
+# ============================================================
+
+# 1) 최상위 전부 무시
+/*
+
+# 2) 공개할 최상위 파일
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/yolov8n.pt
+
+# 3) 공개할 디렉터리
+!/notebooks/
+!/scripts/
+!/models/
+!/results/
+!/runs/
+!/data/
+
+# 4) data 내부는 큐레이션한 하위 폴더만 포함
+/data/*
+!/data/lettuce_processed/
+!/data/lettuce_canopy/
+!/data/private_healthy_crops/
+!/data/samples/
+
+# 5) 대용량/외부 다운로드 자산 제외 (100MB 초과, 재배포 불필요)
+/models/sam2.1_hiera_tiny.pt
+
+# 6) 미사용 스크립트 제외
+/scripts/lettuce_growth_with_canopy.py
+
+# 7) 자동 재생성되는 시나리오별 CSV(파일명 깨짐) 제외
+/data/lettuce_processed/env_control_improvement_*.csv
+/data/lettuce_processed/env_control_optuna_*.csv
+
+# 8) 비어있는 임시 폴더
+/data/private_healthy_crops/pending/
+
+# 8-1) 자체 촬영 원본 사진이 그대로 드러나는 결과물 제외 (crop 결과만 유지)
+/results/farmetry_data_inference/
+/results/basil_private_inference/private_crop_viz_stage1.png
+
+# 9) 공통 파이썬/노트북 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
