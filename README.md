@@ -17,7 +17,7 @@
 | `notebooks/02_lettuce_growth_prediction.ipynb` | 상추 생장 예측·환경 제어 | 전날 환경 → 생장량 회귀, Optuna 최적화 |
 | `notebooks/03_lettuce_disease_diagnosis.ipynb` | 상추 병해 진단 | ResNet18 분류 + YOLOv8 병반 탐지 |
 | `notebooks/04_basil_disease_diagnosis.ipynb` | 바질 병해 진단 | ResNet18 2 class 분류|
-| `notebooks/05_our_data.ipynb` | Farmetry 데이터 적용 | ResNet18 2 class 분류|
+| `notebooks/05_our_data.ipynb` | Farmetry 데이터 적용 | notebook2 모델 적용 - 생장량 최대화 방향 설정 |
 
 - 저장소 루트를 자동 인식하므로 경로 수정 없이 실행 가능
 
