@@ -2,6 +2,10 @@
 
 스마트팜(수경재배) 데이터로 상추·바질의 **생육 분석 · 생장량 예측 · 병해 진단**을 다루는 프로젝트.
 
+<img width="984" height="789" alt="farmetr_git" src="https://github.com/user-attachments/assets/b24a70a3-c32a-4771-a556-c639ddf0e198" />
+
+
+
 - 코드 + 처리된 CSV + 클래스별 샘플 이미지 + 학습된 가중치 포함
 - 데이터셋은 [데이터 준비](#데이터-준비) 참고
 
