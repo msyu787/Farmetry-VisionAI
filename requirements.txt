@@ -1,0 +1,16 @@
+# Farmetry 실행에 필요한 패키지
+# 설치: pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+Pillow
+openpyxl        # 상추 생육 원본 엑셀(.xlsx) 로드용
+PyYAML          # YOLO data.yaml 생성용
+optuna          # 환경 제어 베이지안 최적화 (notebook 02)
+torch           # ResNet18 (notebook 03, 04)
+torchvision
+ultralytics     # YOLOv8 (notebook 03)
+statsmodels     # 시계열 baseline(ARIMA/SARIMAX) 비교, 선택 사항
