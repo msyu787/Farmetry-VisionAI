@@ -36,6 +36,6 @@ Farmetry/
 
 ## 데이터 준비
 
-- **상추 생육 (notebook 02)**: 
+- **상추 생육 (notebook 02)**: https://zenodo.org/records/17041810
 - **상추 병해 (notebook 03)**: AI hub 시설 작물 질병 진단 이미지 (https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=153)
-- **바질 병해 (notebook 04)**: 
+- **바질 병해 (notebook 04)**: https://data.mendeley.com/datasets/7hmt25zc56/1
