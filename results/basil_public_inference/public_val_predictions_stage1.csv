@@ -1,0 +1,16 @@
+﻿image_name,class,class_ko,super_ko,true_name,pred_name,final_label_ko,confidence,correct,image_path
+1.jpg,Downy_Mildew,노균병,병원성,Abnormal,Abnormal,이상,0.9997613,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Downy_Mildew\1.jpg
+download (1).jpg,Fusarium_Wilt,바실라리움 시들음병,병원성,Abnormal,Abnormal,이상,0.9998741,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Fusarium_Wilt\download (1).jpg
+download (1)11.jpg,Fusarium_Wilt,바실라리움 시들음병,병원성,Abnormal,Abnormal,이상,0.99836403,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Fusarium_Wilt\download (1)11.jpg
+download (4).jpg,Fusarium_Wilt,바실라리움 시들음병,병원성,Abnormal,Abnormal,이상,0.99151987,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Fusarium_Wilt\download (4).jpg
+0008_0100.jfif,Healthy,정상,정상,Healthy,Healthy,정상,0.9999814,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Healthy\0008_0100.jfif
+1111.jpg,Healthy,정상,정상,Healthy,Healthy,정상,0.9999161,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Healthy\1111.jpg
+Copy of Scanned_20260128-1201.jpg,Healthy,정상,정상,Healthy,Healthy,정상,0.9996972,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Healthy\Copy of Scanned_20260128-1201.jpg
+download (1).jpg,Leaf_Spot_Fungal,잎반점(곰팡이),병원성,Abnormal,Abnormal,이상,0.9998741,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Leaf_Spot_Fungal\download (1).jpg
+download (1)11.jpg,Leaf_Spot_Fungal,잎반점(곰팡이),병원성,Abnormal,Abnormal,이상,0.99836403,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Leaf_Spot_Fungal\download (1)11.jpg
+download (4).jpg,Leaf_Spot_Fungal,잎반점(곰팡이),병원성,Abnormal,Abnormal,이상,0.99151987,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Leaf_Spot_Fungal\download (4).jpg
+download (5).jpg,Leaf_Spot_Fungal,잎반점(곰팡이),병원성,Abnormal,Abnormal,이상,0.95380366,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Leaf_Spot_Fungal\download (5).jpg
+1.jpg,Nutrient_Deficienc,영양 결핍,환경·생리,Abnormal,Abnormal,이상,0.9997613,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Nutrient_Deficienc\1.jpg
+image_processing20220902-1323614-12ub104.jpg,Overwatering_Rot,과습/뿌리썩음,환경·생리,Abnormal,Abnormal,이상,0.9625976,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Overwatering_Rot\image_processing20220902-1323614-12ub104.jpg
+image_processing20220902-2740616-1ob70x.jpg,Overwatering_Rot,과습/뿌리썩음,환경·생리,Abnormal,Abnormal,이상,0.997036,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Overwatering_Rot\image_processing20220902-2740616-1ob70x.jpg
+image_processing20220902-2740616-1wg8n2m.jpg,Overwatering_Rot,과습/뿌리썩음,환경·생리,Abnormal,Abnormal,이상,0.99714524,True,c:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\basil_disease\Overwatering_Rot\image_processing20220902-2740616-1wg8n2m.jpg

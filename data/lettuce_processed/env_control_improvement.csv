@@ -1,4 +1,4 @@
 ﻿scenario,pred_growth_g_per_day,growth_increase_g,growth_increase_%
-current_environment,3.994,0.0,0.0
-bayesian_target,4.207,0.214,5.36
-next_control_value,4.099,0.106,2.64
+current_environment,3.12,0.0,0.0
+bayesian_target,3.945,0.825,26.46
+next_control_value,3.34,0.22,7.07
