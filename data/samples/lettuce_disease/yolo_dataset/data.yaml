@@ -1,0 +1,8 @@
+path: C:\Users\msyu7\Desktop\HYU\Farmetry-VisionAI\data\samples\lettuce_disease\yolo_dataset
+train: images/train
+val: images/val
+nc: 3
+names:
+- 정상
+- 상추균핵병
+- 상추노균병
