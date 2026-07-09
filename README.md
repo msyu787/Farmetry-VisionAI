@@ -51,6 +51,5 @@ Farmetry/
 │   ├── private_healthy_crops/ # 자체 데이터 잎 crop (notebook 04)
 │   └── samples/               # 병해 샘플 (notebook 03/04)
 ├── models/                    # 학습된 가중치
-├── results/                   # 결과 이미지 및 CSV
 ├── runs/                      # YOLOv8 산출물
 └── yolov8n.pt                 # YOLOv8 사전학습 가중치
