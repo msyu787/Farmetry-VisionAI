@@ -1,5 +1,7 @@
 # Farmetry
 
+> **AI-powered Smart Farming Startup Project**
+
 스마트팜(수경재배) 데이터로 상추·바질의 **생육 분석 · 생장량 예측 · 병해 진단**을 다루는 프로젝트.
 
 <img width="984" height="789" alt="farmetr_git" src="https://github.com/user-attachments/assets/b24a70a3-c32a-4771-a556-c639ddf0e198" />
